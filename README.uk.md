@@ -1,3 +1,5 @@
+# Course-work-Databases
+2 курс(1 сем)
 [English](README.md) | **Українська**
 # Система обліку магазину гаджетів
 
